@@ -9,10 +9,9 @@ This repository contains solutions to **Research Task 03**:
 
 | File                        | Description                                                   |
 |-----------------------------|---------------------------------------------------------------|
-| `pure_python_stats.py`     | Descriptive statistics using only base Python (no libraries)  |
-| `pandas_stats.py`          | Same analysis using the Pandas library                        |
-| `polars_stats.py`          | Same analysis using the Polars library                        |
-| `outputs/`                 | Contains `.txt` or `.csv` outputs from each script            |
+| `python.py`     | Descriptive statistics using only base Python (no libraries)  |
+| `pandas.py`          | Same analysis using the Pandas library                        |
+| `polars.py`          | Same analysis using the Polars library                        |
 | `data/`                    | Place the `2024_fb_ads_president_scored_anon.csv` file here   |
 | `.gitignore`               | Prevents dataset and output files from being committed        |
 | `README.md`                | Overview, setup, and execution instructions                   |
